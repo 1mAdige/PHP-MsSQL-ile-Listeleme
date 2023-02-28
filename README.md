@@ -1,4 +1,4 @@
-## PHP MsSQL ile Listeleme
+## PHP & MsSQL ile Listeleme
 
 ### Projenin Amacı
 
@@ -26,5 +26,4 @@ extension=sqlsrv_74_ts_x64
 
 ### Önizleme
 
-![Proje ile ilgili önizleme görüntüsü](./ss.png "GitHub")
-<img src="./ss.png" alt="alt yazı" width="320">
+![Proje ile ilgili önizleme görüntüsü](./ss.png "fth.elb")
