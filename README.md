@@ -13,8 +13,8 @@ Eklentileri [burada](https://download.microsoft.com/download/f/4/d/f4d95d48-74ae
 Kullanmak için; 
 
 - Dosyaları Çıkartın
-- Dll dosyalarını php sürümüne göre "C:\xampp\php\ext\" dizinine kopyalayın
-- Favori düzenleyiciniz ile "C:\xampp\php\" konumunda bulunan php.ini dosyasını açın.
+- Dll dosyalarını php sürümüne göre `C:\xampp\php\ext\` dizinine kopyalayın
+- Favori düzenleyiciniz ile `C:\xampp\php\` konumunda bulunan php.ini dosyasını açın.
 - Uzantıları ekleyin:
 
 ```
