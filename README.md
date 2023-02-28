@@ -12,10 +12,10 @@ Local de test edecekseniz XAMPP veya benzeri bir program. Ve tabiki php-sql ekle
 Eklentileri [burada](https://download.microsoft.com/download/f/4/d/f4d95d48-74ae-4d72-a602-02145a5f29c8/SQLSRV510.ZIP) verdiğim linkten erişebilirsiniz.
 Kullanmak için; 
 
-...Dosyaları Çıkartın
-...Dll dosyalarını php sürümüne göre "C:\xampp\php\ext\" dizinine kopyalayın
-...Favori düzenleyiciniz ile "C:\xampp\php\" konumunda bulunan php.ini dosyasını açın.
-...Uzantıları ekleyin:
+1. Dosyaları Çıkartın
+2. Dll dosyalarını php sürümüne göre "C:\xampp\php\ext\" dizinine kopyalayın
+3. Favori düzenleyiciniz ile "C:\xampp\php\" konumunda bulunan php.ini dosyasını açın.
+4. Uzantıları ekleyin:
 ```
 extension=pdo_sqlsrv_74_ts_x64 
 extension=sqlsrv_74_ts_x64
