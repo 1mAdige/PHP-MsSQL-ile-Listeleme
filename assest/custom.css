@@ -1,0 +1,56 @@
+/***********************************/
+/*!   Yapımcı: ImAdige | fth.elb  !*/
+/*!     Dosya Adı: custom.css     !*/
+/***********************************/
+
+body{
+    color: white;
+    background: linear-gradient(-45deg, #273c75, #192a56);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    height: 100vh;
+}
+#fth_elb tr td {
+	text-align: center;
+	padding: 5px;
+}
+
+#fth_elb tr td:before {
+    display: inline-block;
+    content: "\f04b";
+    float: left;
+    font: normal normal normal 14px/1 FontAwesome;
+    line-height: 2;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+	color: #bbc5cf;
+}
+#fth_elb tr td:after {
+    display: inline-block;
+	content: "\f04b";
+	transform: rotate(180deg);
+    float: right;
+	font: normal normal normal 14px/1 FontAwesome;
+     line-height: 2;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+	color: #bbc5cf;
+}
+.baslik {
+	text-align:center;
+	background-color: #e84118 !important;
+    color: white;
+    font-size: 21px;
+	text-transform: uppercase;
+	padding: 8px !important;
+}
+
+.baslik:before, .baslik:after {
+	content: "\f111" !important;
+    color: #c23616 !important;
+}
+.content {
+    box-shadow: 0px 1px 22px 4px #f8f9fa52;
+}
+
+
