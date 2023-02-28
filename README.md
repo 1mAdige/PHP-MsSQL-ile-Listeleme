@@ -1,13 +1,12 @@
-# PHP MsSQL ile Listeleme
+## PHP MsSQL ile Listeleme
 
-## Projenin Amacı
+### Projenin Amacı
 
 PHP&MsSQL (Microsft SQL) den database sunucu verilerini php ile yayınlamayı hedefliyor.
 
-## Gerekli Olan Şeyler
+### Gerekli Olan Şeyler
 
 Local de test edecekseniz XAMPP veya benzeri bir program. Ve tabiki php-sql eklentileri.
-
 
 Eklentileri [burada](https://download.microsoft.com/download/f/4/d/f4d95d48-74ae-4d72-a602-02145a5f29c8/SQLSRV510.ZIP) verdiğim linkten erişebilirsiniz.
 
@@ -22,10 +21,10 @@ Kullanmak için;
 extension=pdo_sqlsrv_74_ts_x64 
 extension=sqlsrv_74_ts_x64
 ```
-...Apache ve PHP'yi yeniden başlatın.
+- Apache ve PHP'yi yeniden başlatın.
 
 
-## Önizleme
+### Önizleme
 
-![Proje ile ilgili önizleme görüntüsü][./ss.png "GitHub"]
+![Proje ile ilgili önizleme görüntüsü](./ss.png "GitHub")
 <img src="./ss.png" alt="alt yazı" width="320">
