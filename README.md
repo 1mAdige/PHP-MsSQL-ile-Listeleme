@@ -2,13 +2,13 @@
 
 ### Projenin Amacı
 
-PHP&MsSQL (Microsft SQL) den database sunucu verilerini php ile yayınlamayı hedefliyor.
+PHP&MsSQL (Microsoft SQL) den database sunucu verilerini PHP ile yayınlamayı hedefliyor.
 
 ### Gerekli Olan Şeyler
 
 Local de test edecekseniz XAMPP veya benzeri bir program. Ve tabiki php-sql eklentileri.
 
-Eklentileri [burada](https://download.microsoft.com/download/f/4/d/f4d95d48-74ae-4d72-a602-02145a5f29c8/SQLSRV510.ZIP) verdiğim linkten erişebilirsiniz.
+Eklentileri *[burada](https://download.microsoft.com/download/f/4/d/f4d95d48-74ae-4d72-a602-02145a5f29c8/SQLSRV510.ZIP)* verdiğim linkten erişebilirsiniz.
 
 Kullanmak için; 
 
